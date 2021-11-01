@@ -1,0 +1,2 @@
+Note- If you are newly installing the admin please only user the Admin and web new install zip, You don't need to use the Admin & Web Update zip file. 
+The Admin & Web Update zip file is only for update the older version.
